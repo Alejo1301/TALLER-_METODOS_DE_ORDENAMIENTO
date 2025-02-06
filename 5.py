@@ -15,3 +15,5 @@ precios = [50000, 3000, 5000, 245, 2000, 5600, 1500]
 print("Precios originales:", precios)
 print("Precios ordenados ascendentemente:", burbuja_precios(precios))
 
+
+
